@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CS325/CS325 Module Overview.md",
+                "file": "Year 3/CS325/LL(1) Parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS325 Module Overview"
+              "title": "LL(1) Parser"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,10 @@
   },
   "active": "2396087406eb4050",
   "lastOpenFiles": [
+    "Year 3/CS325/First and Follow sets.md",
+    "Year 3/CS325/LL(1) Parser.md",
+    "Year 3/CS325/Recursive Descent Parser.md",
+    "Year 3/CS325/CS325 Module Overview.md",
     "Year 3/CS325/Lexing.md",
     "Year 2/CS259/DFAs.md",
     "README.md",
@@ -191,8 +195,6 @@
     "Year 3/CS342/Supervised Learning.md",
     "Year 3/CS325/Semantic Analysis.md",
     "Year 3/CS325/Syntax Analysis.md",
-    "Year 3/CS325/LL(1) Parser.md",
-    "Year 3/CS325/CS325 Module Overview.md",
     "Year 3/CS325/Overview of Compilers.md",
     "Year 3/CS357/Applied Ethics.md",
     "Year 3/CS357/Ethical Frameworks.md",
