@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Complexity Classes"
             }
+          },
+          {
+            "id": "febed73ea3445c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/CS349/Essay Exploration - Lua as a language for game development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay Exploration - Lua as a language for game development"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2396087406eb4050",
+  "active": "febed73ea3445c55",
   "lastOpenFiles": [
+    "Year 3/CS342/Supervised Learning.md",
+    "Year 3/CS342/Probabilistic Classification.md",
+    "Year 3/CS342/Neural Networks.md",
+    "Year 3/CS349/Essay Exploration - Lua as a language for game development.md",
     "Year 3/CS342/Overview.md",
+    "Year 3/CS342/Unsupervised Learning.md",
+    "Year 3/CS342/Clustering.md",
+    "Year 3/CS325/Random C++ Concepts.md",
     "Year 3/CS301/Complexity Classes.md",
     "Year 3/ES3C5",
     "Year 2/CS255/Overview.md",
-    "Year 3/CS342/Neural Networks.md",
     "Year 2/CS255",
-    "Year 3/CS325/Random C++ Concepts.md",
     "Year 3/CS325/LL(1) Parser.md",
     "Year 3/CS325/First and Follow sets.md",
     "Year 3/CS325/Recursive Descent Parser.md",
@@ -196,23 +216,18 @@
     "Year 3/CS325/Lexing.md",
     "Year 2/CS259/DFAs.md",
     "README.md",
-    "Year 3/CS342/Clustering.md",
     "root",
-    "Year 3/CS342/Unsupervised Machine Learning.md",
-    "Year 3/CS342/Supervised Learning.md",
     "Year 3/CS325/Semantic Analysis.md",
     "Year 3/CS325/Syntax Analysis.md",
     "Year 3/CS325/Overview of Compilers.md",
     "Year 3/CS357/Applied Ethics.md",
     "Year 3/CS357/Ethical Frameworks.md",
     "Year 3/CS301/Reductions.md",
-    "Year 3/CS342/Probabilistic Classification.md",
     "Year 3/CS359/Arrow's Impossiblity Theorem.md",
     "Year 3/CS359/Social Choice Functions.md",
     "Year 3/CS301/Untitled.md",
     "Year 3/Untitled",
     "Year 3/CS357",
-    "Year 3/CS359/Voting Systems.md",
     "Year 2/CS259",
     "Year 2",
     "Year 1/CS130",

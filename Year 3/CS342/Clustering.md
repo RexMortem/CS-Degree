@@ -1,4 +1,4 @@
-(Part of [[Unsupervised Machine Learning]])
+(Part of [[Unsupervised Learning]])
 
 Clusters form in the data where:
 - points within a cluster are "similar"
