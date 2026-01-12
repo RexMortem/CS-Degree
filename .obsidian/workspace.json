@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CS349/Essay Exploration - Lua as a language for game development.md",
+                "file": "Year 3/CS331/Overview of AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essay Exploration - Lua as a language for game development"
+              "title": "Overview of AI"
             }
           }
         ],
@@ -197,11 +197,21 @@
   },
   "active": "febed73ea3445c55",
   "lastOpenFiles": [
+    "Year 3/CS342/Support Vector Machines.md",
+    "Year 3/CS331/Overview of AI.md",
+    "Year 3/CS342/Overview.md",
+    "Year 3/CS331/Intro.md",
+    "Year 3/CS313/Intro.md",
+    "Year 3/CS331",
+    "Year 3/Untitled 1",
+    "Year 2/MA241/Enumerative Combinatorics.md",
+    "Year 3/CS313",
+    "Year 3/CS349/Essay Exploration - Lua as a language for game development.md",
+    "Year 2/MA241",
+    "Year 2/Untitled.md",
     "Year 3/CS342/Supervised Learning.md",
     "Year 3/CS342/Probabilistic Classification.md",
     "Year 3/CS342/Neural Networks.md",
-    "Year 3/CS349/Essay Exploration - Lua as a language for game development.md",
-    "Year 3/CS342/Overview.md",
     "Year 3/CS342/Unsupervised Learning.md",
     "Year 3/CS342/Clustering.md",
     "Year 3/CS325/Random C++ Concepts.md",
@@ -220,18 +230,8 @@
     "Year 3/CS325/Semantic Analysis.md",
     "Year 3/CS325/Syntax Analysis.md",
     "Year 3/CS325/Overview of Compilers.md",
-    "Year 3/CS357/Applied Ethics.md",
-    "Year 3/CS357/Ethical Frameworks.md",
-    "Year 3/CS301/Reductions.md",
-    "Year 3/CS359/Arrow's Impossiblity Theorem.md",
-    "Year 3/CS359/Social Choice Functions.md",
-    "Year 3/CS301/Untitled.md",
     "Year 3/Untitled",
     "Year 3/CS357",
-    "Year 2/CS259",
-    "Year 2",
-    "Year 1/CS130",
-    "Year 3/CS301",
-    "Year 3/CS342"
+    "Year 2/CS259"
   ]
 }
